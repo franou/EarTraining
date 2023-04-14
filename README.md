@@ -1,2 +1,2 @@
 # EarTraining
-Site web de Eartraining (développement de l'oreille musicale)
+Site web de eartraining (développement de l'oreille musicale)
