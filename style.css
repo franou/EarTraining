@@ -1,0 +1,14 @@
+body {
+    background: blanchedalmond;
+    width: 700px;
+    min-height: 500px;
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+}
